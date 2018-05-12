@@ -1,10 +1,16 @@
 _repo: Folk-lore-and-legends-English_47408
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47408-h/images/cover.jpg
 creator:
   author:
     agent_name: Tibbits, Charles John
     gutenberg_agent_id: '44297'
     url: http://www.gutenberg.org/2009/agents/44297
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47408#Folk-lore-and-legends-English
 gutenberg_issued: '2014-11-20'
 gutenberg_type: Text
 identifiers:
